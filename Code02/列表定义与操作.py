@@ -55,11 +55,3 @@ print("15",names)
 #（2）反转列表顺序
 name.reverse()
 print("16",name)
-
-
-
-
-
-
-
-
